@@ -170,3 +170,7 @@ Computer Science Student | Machine Learning Enthusiast
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
+# 🎯 AI Skill Gap Classification using Decision Tree
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Althaf12344/Ai-Skill-Project-VU/blob/main/week%202.ipynb)
+
